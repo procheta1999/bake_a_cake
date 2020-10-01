@@ -1,7 +1,7 @@
 # bake_a_cake
-## how to bake a simple cake
-*Take the melted butter and pour it in a bowl.
-*Next give the desired amount of sugar in the bowl.
+* ## how to bake a simple cake
+ * Take the melted butter and pour it in a bowl.
+ * Next give the desired amount of sugar in the bowl.
 -Next break the eggs.
 -Pour flour in the bowl.
 -Mix vanilla custard powder with the ingredients in the bowl.
